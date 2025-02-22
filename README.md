@@ -27,7 +27,7 @@ Next Destination is a full-stack web application built with Node.js, Express.js,
 
 ## 🚀 Getting Started
 
-1. Clone the repository.
+1. Clone the repository.(https://github.com/himabindu-gorre/Next-Destination-Project.git)
 2. Install dependencies (`npm install`).
 3. Set up environment variables for API keys and MongoDB connection.
 4. Run the application (`nodemon app.js`).
